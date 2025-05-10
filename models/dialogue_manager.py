@@ -22,7 +22,7 @@ class DialogueManager:
 
         # 记录AI回应
         self.history += f" {response}\n"
-        return response
+        return str(response)
 
 
 # 示例

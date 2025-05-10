@@ -1,5 +1,5 @@
 {
-  "train": [
+  "fine_tuned_model": [
     {
       "user": "你好！",
       "ai": "你好！今天过得怎么样？"
